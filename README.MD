@@ -8,24 +8,8 @@
         <br />
         <sup>2</sup>Corresponding author: <a href="mailto:digno.christopher@student.uns.ac.id">digno.christopher@student.uns.ac.id</a>
     </p>
-    <p>
-        <img src="https://badgen.net/badge/status/on-progress/yellow">
-    </p>
 </div>
 
----
-<div align="center">
-    <a href="#english">Jump to English content</a>
-</div>
+This repository is not yet finished.
 
-# Tentang
-
-*Repositori GitHub* ini berisi *source code* dari penelitian kami, yang terbuka untuk direplikasi dan dilanjutkan penelitiannya. *Repositori* ini **belum lengkap** dan akan terus diperbarui.
-
-<div id="english"></div>
-
----
-
-# About
-
-This GitHub repository contains the source code of our research, which is open to be replicated and studied further. This repository is **unfinished** and will be frequently updated.
+In the meantime, you can read the paper [here](https://ojs.unud.ac.id/index.php/JLK/article/view/102724).
